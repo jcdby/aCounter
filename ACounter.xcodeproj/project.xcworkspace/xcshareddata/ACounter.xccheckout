@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>80E14906-87A0-4024-92DD-EE9AD7CDA8EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ACounter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BC5EBB9CEFC6A57C5B13625D94D13081FACDB809</key>
+		<string>https://github.com/jcdby/aCounter_IOS_SWIF.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ACounter/ACounter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BC5EBB9CEFC6A57C5B13625D94D13081FACDB809</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jcdby/aCounter_IOS_SWIF.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC5EBB9CEFC6A57C5B13625D94D13081FACDB809</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC5EBB9CEFC6A57C5B13625D94D13081FACDB809</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ACounter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
