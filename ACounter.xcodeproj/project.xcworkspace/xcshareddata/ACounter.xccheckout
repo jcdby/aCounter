@@ -10,22 +10,26 @@
 	<string>ACounter</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>A3902BBDCB611F0B1510CF315C0E0ECB10BB3E2C</key>
+		<string>https://github.com/jcdby/aCounter.git</string>
 		<key>BC5EBB9CEFC6A57C5B13625D94D13081FACDB809</key>
 		<string>https://github.com/jcdby/aCounter_IOS_SWIF.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ACounter/ACounter.xcodeproj</string>
+	<string>ACounter.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>A3902BBDCB611F0B1510CF315C0E0ECB10BB3E2C</key>
+		<string>../..</string>
 		<key>BC5EBB9CEFC6A57C5B13625D94D13081FACDB809</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jcdby/aCounter_IOS_SWIF.git</string>
+	<string>https://github.com/jcdby/aCounter.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BC5EBB9CEFC6A57C5B13625D94D13081FACDB809</string>
+	<string>A3902BBDCB611F0B1510CF315C0E0ECB10BB3E2C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -33,6 +37,14 @@
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>BC5EBB9CEFC6A57C5B13625D94D13081FACDB809</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A3902BBDCB611F0B1510CF315C0E0ECB10BB3E2C</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ACounter</string>
 		</dict>

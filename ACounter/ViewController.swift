@@ -86,7 +86,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func setMunite(sender: UIButton) {
-        let munite = sender.currentTitle!
+        if let munite = sender.currentTitle{
         switch munite{
             case "5分":
                 remaindSeconds += 300
@@ -99,7 +99,7 @@ class ViewController: UIViewController {
         }
         
         isIntialState = false
-        
+        }
         
     }
     
